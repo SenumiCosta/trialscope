@@ -1,0 +1,4 @@
+playwright>=1.40.0
+psycopg2-binary>=2.9.0
+pypdf>=4.0.0
+requests>=2.31.0
