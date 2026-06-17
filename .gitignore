@@ -220,6 +220,7 @@ __marimo__/
 node_modules/
 .env
 .env.local
+tmp/
 dist/
 build/
 __pycache__/
